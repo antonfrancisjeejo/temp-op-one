@@ -41,7 +41,7 @@ var c = true; // false
 //   console.log("It is available");
 // }
 // 0        1         2
-var fruits = ["apple", "mango", "orange"];
+var fruits = ["apple", "mango", "orange", "grapes"];
 
 for (var i = 0; i < 3; i++) {
   console.log(fruits[i]);
